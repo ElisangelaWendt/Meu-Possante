@@ -1,0 +1,20 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+*.sqlite
+web-build/
+
+# macOS
+.DS_Store
+
+node_modules/
+uploads/
+npm-debug.log
+yarn-error.log
+yarn.lock # include if you are using yarn - don't use both npm and yarn
